@@ -1,0 +1,20 @@
+{
+  "currency": ["lei"],
+  "transactions": [
+    {
+      "id": 1,
+      "amount": -100,
+      "details": "Papuci"
+    },
+    {
+      "id": 2,
+      "amount": -30,
+      "details": "Tricou"
+    },
+    {
+      "id": 1,
+      "amount": 300,
+      "details": "Bonus"
+    }
+  ]
+}
